@@ -2,7 +2,7 @@ const CHANNELS_URL =
   "https://raw.githubusercontent.com/qwerty180506/json/refs/heads/main/Geoplus.json";
 
 const COOKIE_URL =
-  "https://raw.githubusercontent.com/qwerty180506/json/refs/heads/main/biscuit.json";
+  "https://raw.githubusercontent.com/sportlive18/Sportlink-wtf/refs/heads/main/cookie.json";
 
 const SPORTS_COOKIE_URL =
   "https://raw.githubusercontent.com/qwerty180506/json/refs/heads/main/sportsbiscuit.json";

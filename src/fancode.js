@@ -74,8 +74,11 @@ async function generateFancodeM3U() {
 
       const logo = match.src || "";
 
+      const cleanCategory = category.replace(/,/g, "").trim();
+      const cleanTitle = displayTitle.replace(/,/g, "").trim();
+
       output.push(
-        `#EXTINF:-1 tvg-logo="${logo}" group-title="Fancode",${category} | ${displayTitle}`
+        `#EXTINF:-1 tvg-logo="${logo}" group-title="Fancode",${cleanCategory} | ${cleanTitle}`
       );
 
       output.push(stream);

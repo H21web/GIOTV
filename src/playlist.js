@@ -7,7 +7,7 @@ const SOURCE_URLS = {
   sunnxt: "https://raw.githubusercontent.com/qwerty180506/Geo/refs/heads/main/sunnxt.m3u",
   jiotvplus: "https://raw.githubusercontent.com/qwerty180506/Geo/refs/heads/main/jiotv_cf.m3u",
   jiotv: "https://raw.githubusercontent.com/qwerty180506/Geo/refs/heads/main/jiotv2.m3u",
-  hotstar: "https://premiumplugx.top/tivjh/playlist.php",
+  hotstar: "https://premiumplugx.com/htt/hot.php?playlist=1",
   jiohotstar_events: "https://raw.githubusercontent.com/Sflex0719/JH4K/refs/heads/main/JHS.m3u",
   vzy: "https://raw.githubusercontent.com/qwerty180506/json/refs/heads/main/vzy.m3u"
 };
@@ -74,7 +74,7 @@ const WANTED_MAP = {
   "Tata Play Tamil Classics": "Movies",
   "Sun Life": "Movies",
   "Raj Digital Plus": "Movies",
-  "Zee Thirai HD": ["Movies", "jioplus2"],
+  "Zee Thirai HD": ["Movies", "TIVI"],
   "Tunes 6": "Music",
   "Sun Music HD": "Music",
   "Raj Musix": "Music",
@@ -82,7 +82,7 @@ const WANTED_MAP = {
   "MK Six": "Music",
   "DD Sports": "Sports",
   "Eurosport HD": "Sports",
-  "Star Sports Khel": ["Sports", "jioplus2"],
+  "Star Sports Khel": ["Sports", "TIVI"],
   "Kalaignar Seithigal": "News",
   "News7 Tamil": ["News", "jioplus2"],
   "News J": "News",

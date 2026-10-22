@@ -54,6 +54,7 @@ const WANTED_MAP = {
   "Star Movies Select HD": ["Movies", "TIVI"],
   "Colors Tamil HD": ["Entertainment", "TIVI"],
   "Star Vijay HD": ["Entertainment", "TIVI"],
+  "Sony Vizha HD": ["Entertainment", "TIVI"],
   "Thanthi One": ["Entertainment", "jioplus2"],
   "Zee Tamil HD": ["Entertainment", "TIVI"],
   "Sony PIX HD": ["Movies", "TIVI"],
